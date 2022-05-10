@@ -6,3 +6,4 @@
     const name = fullName('Tony', 'Stark');
     console.log(name);
 })();
+//# sourceMappingURL=agrs-req.js.map

@@ -1,5 +1,6 @@
 (()=>{
   let avenger: any = 123;
+  let a: any;
   let exist;
   let power;
   avenger = 'Dr Strange';

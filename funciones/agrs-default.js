@@ -11,3 +11,4 @@
     const name = fullName('Tony', 'Stark', true);
     console.log({ name });
 })();
+//# sourceMappingURL=agrs-default.js.map

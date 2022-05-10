@@ -1,6 +1,7 @@
 "use strict";
 (() => {
     let avenger = 123;
+    let a;
     let exist;
     let power;
     avenger = 'Dr Strange';
@@ -8,3 +9,4 @@
     avenger = 150.23145;
     console.log(avenger.toFixed(2));
 })();
+//# sourceMappingURL=any.js.map

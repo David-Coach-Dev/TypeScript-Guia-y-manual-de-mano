@@ -14,7 +14,6 @@ var bumblebee = {
         console.log("Disparando");
     }
 };
-// Villanos debe de ser un arreglo de objetos personalizados
 var villanos = [{
         nombre: "Lex Luthor",
         edad: 54,
@@ -36,7 +35,7 @@ var apocalipsis = {
     lider: true,
     miembros: ["Magneto", "Tormenta", "Psylocke", "Angel"]
 };
-// Mystique, debe poder ser cualquiera de esos dos mutantes (charles o apocalipsis)
 var mystique;
 mystique = charles;
 mystique = apocalipsis;
+//# sourceMappingURL=app3.js.map

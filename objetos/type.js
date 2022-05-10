@@ -12,3 +12,4 @@
         getName() { return this.name; },
     };
 })();
+//# sourceMappingURL=type.js.map

@@ -10,3 +10,4 @@
     console.log(typeof actBatiSeñal);
     const heroName = returnName();
 })();
+//# sourceMappingURL=funciones.js.map

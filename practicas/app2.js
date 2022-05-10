@@ -1,5 +1,4 @@
 "use strict";
-// Funciones Básicas
 function sumar(a, b) {
     return a + b;
 }
@@ -9,7 +8,6 @@ const contar = function (heroes) {
 };
 const superHeroes = ["Flash", "Arrow", "Superman", "Linterna Verde"];
 contar(superHeroes);
-//Parametros por defecto
 function llamarBatman(llamar = true) {
     if (llamar) {
         console.log("Bati Señal Activada");
@@ -21,15 +19,13 @@ const llamarBatman1 = (llamar = true) => {
     }
 };
 llamarBatman();
-// Rest?
 function unirHeroes(...personas) {
     return personas.join(", ");
 }
 const unirHeroes1 = (...personas) => personas.join(', ');
-// Tipo función
 function noHaceNada(numero, texto, booleano, arreglo) {
 }
 const noHacerNada1 = (numero, texto, booleano, arreglo) => { };
-// Crear el tipo de función que acepte la función "noHaceNada"
 let noHaceNadaTampoco;
 noHaceNadaTampoco = noHaceNada;
+//# sourceMappingURL=app2.js.map
