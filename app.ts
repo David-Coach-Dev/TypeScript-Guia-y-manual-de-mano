@@ -1,2 +1,4 @@
-const msg:string = 'Hola David';
-console.log(msg);
+(()=>{
+  const msg: string = 'Hola David';
+  console.log(msg);
+})()
